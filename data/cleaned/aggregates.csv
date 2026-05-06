@@ -1,0 +1,93 @@
+,Production by year,,,Production by entity,tonnes,Production by continent,tonnes,,Entity (sorted),tonnes,Continent (sorted),tonnes,,,,,,,,,,,,Production in 1976 - dimension,
+,,,,Angola,3661881.46,Africa,79298582.91,,Brazil,123792215,South America,186073251.8,,,,Production for each entity in 1976,,,Year,Brazil,South America,,,Angola,57480
+,,sum ,,Belize,2974.91,Asia,91799351.61,,Colombia,42111833.34,Asia,91799351.61,,Year of least production,1976,,sum ,,1961,2228704,375985,,,Belize,0
+,,,,Benin,39267.64,North America,64746897.15,,Vietnam,35743436.6,Africa,79298582.91,,,,Africa,1165512,,1962,2190303,754800,,,Benin,599
+,1961,9060993,,Bolivia,1246437.26,Europe,207,,Indonesia,28224094.5,North America,64746897.15,,,,South America,1071431,,1963,1650527,872897,,,Bolivia,14664
+,1962,9175614,,Brazil,123792215,South America,186073251.8,,Ethiopia,16774867.16,Europe,207,,,,North America,834112,,1964,1042013,930135,,,Brazil,375985
+,1963,8312263,,Burundi,2162310.46,,,,Mexico,15944906.67,,,,,,Colombia,483000,,1965,2294047,957931,,,Burundi,21428
+,1964,7549247,,Cambodia,17504.14,,,,Guatemala,12791942.74,,,,,,Asia,410280,,1966,1202868,975385,,,Cambodia,90
+,1965,9975063,,Cameroon,4667182.4,,,,Uganda,12696994,,,,,,Brazil,375985,,1967,1507500,1041406,,,Cameroon,79599
+,1966,8118518,,Cape Verde,2931.22,,,,India,12584852,,,,,,Cote d'Ivoire,308400,,1968,1057700,1042013,,,Cape Verde,168
+,1967,8683212,,Central African Republic,2477345.51,,,,Cote d'Ivoire,12557421.47,,,,,,Mexico,212200,,1969,1283500,1057700,,,Central African Republic,13900
+,1968,7888930,,China,2040412.27,,,,Honduras,10332336.71,,,,,,Indonesia,193377,,1970,754800,1061195,,,China,4000
+,1969,8568392,,Colombia,42111833.34,,,,Peru,10243686.8,,,,,,Ethiopia,178600,,1971,1551462,1202868,,,Colombia,483000
+,1970,7727944,,Comoros,7237.55,,,,El Salvador,7246445.34,,,,,,Guatemala,158433,,1972,1495705,1228513,,,Comoros,60
+,1971,9354920,,Congo,142309.92,,,,Costa Rica,6826334.57,,,,,,El Salvador,138690,,1973,872897,1267661,,,Congo,2160
+,1972,9171824,,Cook Islands,280.38,,,,Philippines,5852956.01,,,,,,Uganda,137100,,1974,1615309,1272298,,,Cook Islands,2
+,1973,8408049,,Costa Rica,6826334.57,,,,Cameroon,4667182.4,,,,,,Democratic Republic of Congo,91100,,1975,1272298,1278759,,,Costa Rica,81784
+,1974,9575410,,Cote d'Ivoire,12557421.47,,,,Madagascar,4295567.63,,,,,,Ecuador,87101,,1976,375985,1283500,,,Cote d'Ivoire,308400
+,1975,9245128,,Cuba,1202993.32,,,,Nicaragua,4279110.3,,,,,,India,84000,,1977,975385,1294373,,,Cuba,27151
+,1976,7086181,,Democratic Republic of Congo,4084986.19,,,,Ecuador,4255663.88,,,,,,Costa Rica,81784,,1978,1267661,1307289,,,Democratic Republic of Congo,91100
+,1977,8837726,,Dominica,12363.02,,,,Kenya,4181454,,,,,,Philippines,80800,,1979,1332772,1332772,,,Dominica,0
+,1978,9497051,,Dominican Republic,2679181.22,,,,Democratic Republic of Congo,4084986.19,,,,,,Kenya,80303,,1980,1061195,1348014,,,Dominican Republic,56997
+,1979,9996678,,East Timor,512423.74,,,,Venezuela,4004490.87,,,,,,Cameroon,79599,,1981,2032210,1369196,,,East Timor,6000
+,1980,9734129,,Ecuador,4255663.88,,,,Angola,3661881.46,,,,,,Madagascar,78930,,1982,957931,1420281,,,Ecuador,87101
+,1981,12217094,,El Salvador,7246445.34,,,,Tanzania,3419867,,,,,,Peru,65445,,1983,1671588,1464856,,,El Salvador,138690
+,1982,9923338,,Equatorial Guinea,354356.87,,,,Guinea,3280563.66,,,,,,Angola,57480,,1984,1420281,1495705,,,Equatorial Guinea,5400
+,1983,11220683,,Ethiopia,16774867.16,,,,Papua New Guinea,3060184.91,,,,,,Dominican Republic,56997,,1985,1910646,1507500,,,Ethiopia,178600
+,1984,10487169,,Fiji,2452.04,,,,Dominican Republic,2679181.22,,,,,,Nicaragua,56580,,1986,1041406,1520382,,,Fiji,15
+,1985,11706014,,Gabon,35257.58,,,,Laos,2500550,,,,,,Honduras,48285,,1987,2202708,1532335,,,Gabon,145
+,1986,10519382,,Ghana,158420.44,,,,Central African Republic,2477345.51,,,,,,Tanzania,43278,,1988,1348014,1551462,,,Ghana,5500
+,1987,12833393,,Guadeloupe,5305.5,,,,Burundi,2162310.46,,,,,,Oceania,41165,,1989,1532335,1615309,,,Guadeloupe,116
+,1988,11353206,,Guatemala,12791942.74,,,,Thailand,2072822.37,,,,,,Melanesia,41041,,1990,1464856,1631852,,,Guatemala,158433
+,1989,11882162,,Guinea,3280563.66,,,,China,2040412.27,,,,,,Venezuela,40350,,1991,1520382,1650527,,,Guinea,13975
+,1990,12187206,,Guyana,38721,,,,Haiti,1741216.41,,,,,,Papua New Guinea,39466,,1992,1294373,1671588,,,Guyana,900
+,1991,12173584.99,,Haiti,1741216.41,,,,Rwanda,1358374.02,,,,,,Haiti,32280,,1993,1278759,1689366,,,Haiti,32280
+,1992,12223523.04,,Honduras,10332336.71,,,,Bolivia,1246437.26,,,,,,Cuba,27151,,1994,1307289,1819569,,,Honduras,48285
+,1993,11173738.72,,India,12584852,,,,Cuba,1202993.32,,,,,,Burundi,21428,,1995,930135,1903562,,,India,84000
+,1994,11512702.46,,Indonesia,28224094.5,,,,Sierra Leone,905539.8,,,,,,Rwanda,20334,,1996,1369196,1910646,,,Indonesia,193377
+,1995,11118023.98,,Jamaica,245584.9,,,,Togo,807800.86,,,,,,Bolivia,14664,,1997,1228513,1987074,,,Jamaica,1929
+,1996,12460606.9,,Kenya,4181454,,,,Yemen,709152.68,,,,,,Guinea,13975,,1998,1689366,2032210,,,Kenya,80303
+,1997,12208947.63,,Laos,2500550,,,,Puerto Rico,627659.1,,,,,,Central African Republic,13900,,1999,1631852,2140169,,,Laos,2780
+,1998,13346405.77,,Liberia,253292.61,,,,Panama,535592.51,,,,,,Puerto Rico,11428,,2000,1903562,2190303,,,Liberia,4238
+,1999,13664735.37,,Madagascar,4295567.63,,,,Sri Lanka,515024.1,,,,,,Vietnam,9700,,2001,1819569,2202708,,,Madagascar,78930
+,2000,15080663.58,,Malawi,240478.46,,,,East Timor,512423.74,,,,,,Sri Lanka,8876,,2002,2610524,2228704,,,Malawi,880
+,2001,14823726.6,,Martinique,23551.89,,,,Paraguay,374990.32,,,,,,Togo,8512,,2003,1987074,2249011,,,Martinique,0
+,2002,15922214.04,,Mauritius,130,,,,Equatorial Guinea,354356.87,,,,,,Malaysia,8100,,2004,2465710,2294047,,,Mauritius,0
+,2003,14147577.35,,Mexico,15944906.67,,,,Zimbabwe,282252.76,,,,,,Thailand,7635,,2005,2140169,2440056,,,Mexico,212200
+,2004,15785744.19,,Mozambique,57353.27,,,,Liberia,253292.61,,,,,,East Timor,6000,,2006,2573368,2465710,,,Mozambique,1000
+,2005,14860360.66,,Myanmar,216630.24,,,,Jamaica,245584.9,,,,,,Ghana,5500,,2007,2249011,2573368,,,Myanmar,923
+,2006,16344215.09,,Nepal,8973.28,,,,Malawi,240478.46,,,,,,Equatorial Guinea,5400,,2008,2796927,2610524,,,Nepal,0
+,2007,16327425.98,,New Caledonia,32092.33,,,,Myanmar,216630.24,,,,,,Sierra Leone,4702,,2009,2440056,2647504,,,New Caledonia,1500
+,2008,17041362.87,,Nicaragua,4279110.3,,,,Zambia,202188.96,,,,,,Panama,4677,,2010,2907265,2684508,,,Nicaragua,56580
+,2009,15615958.42,,Nigeria,187359.92,,,,Nigeria,187359.92,,,,,,Zimbabwe,4639,,2011,2700540,2700540,,,Nigeria,3000
+,2010,16973415.64,,Panama,535592.51,,,,Ghana,158420.44,,,,,,Liberia,4238,,2012,3037534,2796927,,,Panama,4677
+,2011,16955285.46,,Papua New Guinea,3060184.91,,,,United States,144022,,,,,,China,4000,,2013,2964538,2804070,,,Papua New Guinea,39466
+,2012,17989260.54,,Paraguay,374990.32,,,,Congo,142309.92,,,,,,Paraguay,3910,,2014,2804070,2907265,,,Paraguay,3910
+,2013,17727982.56,,Peru,10243686.8,,,,Trinidad and Tobago,95863.74,,,,,,Yemen,3810,,2015,2647504,2964538,,,Peru,65445
+,2014,17657265.5,,Philippines,5852956.01,,,,Mozambique,57353.27,,,,,,Nigeria,3000,,2016,3024466,2985581,,,Philippines,80800
+,2015,18178023.89,,Puerto Rico,627659.1,,,,Benin,39267.64,,,,,,Laos,2780,,2017,2684508,3011745,,,Puerto Rico,11428
+,2016,19154413.15,,Rwanda,1358374.02,,,,Guyana,38721,,,,,,Trinidad and Tobago,2671,,2018,3552729,3024466,,,Rwanda,20334
+,2017,19226207.17,,Saint Lucia,597,,,,Gabon,35257.58,,,,,,Congo,2160,,2019,3011745,3037534,,,Saint Lucia,21
+,2018,21709191.17,,Saint Vincent and the Grenadines,8914.89,,,,New Caledonia,32092.33,,,,,,Jamaica,1929,,2020,3705719,3179341,,,Saint Vincent and the Grenadines,100
+,2019,21167998.92,,Samoa,2336.3,,,,Martinique,23551.89,,,,,,New Caledonia,1500,,2021,2985581,3348510,,,Samoa,20
+,2020,22518058.55,,Sao Tome and Principe,3589.96,,,,Cambodia,17504.14,,,,,,Mozambique,1000,,2022,3179341,3387724,,,Sao Tome and Principe,45
+,2021,21191395.79,,Saudi Arabia,5882.34,,,,Dominica,12363.02,,,,,,Myanmar,923,,2023,3348510,3552729,,,Saudi Arabia,180
+,2022,22016418.12,,Sierra Leone,905539.8,,,,Taiwan,10413.29,,,,,,Guyana,900,,2024,3387724,3705719,,,Sierra Leone,4702
+,2023,22244576.64,,Spain,207,,,,Nepal,8973.28,,,,,,Malawi,880,,,,,,,Spain,8
+,2024,22316764.42,,Sri Lanka,515024.1,,,,Saint Vincent and the Grenadines,8914.89,,,,,,United States,770,,,,,,,Sri Lanka,8876
+,,,,Suriname,5212.99,,,,Comoros,7237.55,,,,,,Benin,599,,,,,,,Suriname,76
+,,,,Taiwan,10413.29,,,,Saudi Arabia,5882.34,,,,,,Saudi Arabia,180,,,,,,,Taiwan,9
+,,,,Tanzania,3419867,,,,Guadeloupe,5305.5,,,,,,Cape Verde,168,,,,,,,Tanzania,43278
+,,,,Thailand,2072822.37,,,,Suriname,5212.99,,,,,,Gabon,145,,,,,,,Thailand,7635
+,,,,Togo,807800.86,,,,Vanuatu,4178.45,,,,,,Polynesia,124,,,,,,,Togo,8512
+,,,,Tonga,614.49,,,,Sao Tome and Principe,3589.96,,,,,,Guadeloupe,116,,,,,,,Tonga,0
+,,,,Trinidad and Tobago,95863.74,,,,Belize,2974.91,,,,,,French Polynesia,102,,,,,,,Trinidad and Tobago,2671
+,,,,Uganda,12696994,,,,Cape Verde,2931.22,,,,,,Saint Vincent and the Grenadines,100,,,,,,,Uganda,137100
+,,,,United States,144022,,,,Fiji,2452.04,,,,,,Cambodia,90,,,,,,,United States,770
+,,,,Vanuatu,4178.45,,,,Samoa,2336.3,,,,,,Suriname,76,,,,,,,Vanuatu,60
+,,,,Venezuela,4004490.87,,,,Tonga,614.49,,,,,,Comoros,60,,,,,,,Venezuela,40350
+,,,,Vietnam,35743436.6,,,,Saint Lucia,597,,,,,,Vanuatu,60,,,,,,,Vietnam,9700
+,,,,Yemen,709152.68,,,,Cook Islands,280.38,,,,,,Sao Tome and Principe,45,,,,,,,Yemen,3810
+,,,,Zambia,202188.96,,,,Spain,207,,,,,,Zambia,37,,,,,,,Zambia,37
+,,,,Zimbabwe,282252.76,,,,Mauritius,130,,,,,,Saint Lucia,21,,,,,,,Zimbabwe,4639
+,,,,,,,,,,,,,,,,Samoa,20,,,,,,,,3514306
+,,,,,,,,,,,,,,,,Fiji,15,,,,,,8086,,
+,,,,,,,,,,,,,,,,Taiwan,9,,,,,,,,
+,,,,,,,,,,,,,,,,Europe,8,,,,,,,,
+,,,,,,,,,,,,,,,,Spain,8,,,,,,,,
+,,,,,,,,,,,,,,,,Cook Islands,2,,,,,,,,
+,,,,,,,,,,,,,,,,Dominica,0,,,,,,,,
+,,,,,,,,,,,,,,,,Martinique,0,,,,,,,,
+,,,,,,,,,,,,,,,,Mauritius,0,,,,,,,,
+,,,,,,,,,,,,,,,,Tonga,0,,,,,,,,
